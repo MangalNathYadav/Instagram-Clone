@@ -1,7 +1,7 @@
 # Instagram-Clone
 Instagram clone using tailwind CSS 
 
-![Image 3](./screenshot_view.jpg)
+![Image_3](./screenshot_view.jpg)
 
 
 Tasks to do 
@@ -11,3 +11,5 @@ Tasks to do
 4- upload 
 5-message page
 6- profile page
+
+<img alt="hello" src="./screenshot_view.jpg">
