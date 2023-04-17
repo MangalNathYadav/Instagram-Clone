@@ -1,7 +1,8 @@
 # Instagram-Clone
 Instagram clone using tailwind CSS 
 
-<img src="screenshot_view.png" alt="view" > </img>
+![Image 3](./screenshot_view.jpg)
+
 
 Tasks to do 
 1- notification icon reset
