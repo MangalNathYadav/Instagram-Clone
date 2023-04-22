@@ -25,15 +25,16 @@ Still under developemnet
 
 1 - explore page <br>
 
-2- messsage page  <br>
+2- messsage chat page <br>
 
 3- profile page <br>
 
 4- reels page  <br>
 
-5- reset notification icon <br>
-
 6- make login page <br>
+make working arrow btn baside ig logo in home page <br>
+post btn baside notificaion btn <br>
+
 7- make it function al <br>
 
 
